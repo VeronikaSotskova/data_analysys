@@ -1,1 +1,1 @@
-# data_analysys 2 course 11-802
+# data_analysys 11-802
